@@ -19,10 +19,15 @@ This is a solution to the [Survey Form Sertification Project](https://www.freeco
 
 - This is one of the required projects to earn certificate.
 
+
+### Screenshot
+
+![](./Screenshot.png)
+
 ### Links
 
-- Solution URL: [](https://github.com/Dachi-Papashvili88/survey-form)
-- Live Site URL: [](https://dachi-papashvili88.github.io/survey-form/)
+- [Solution URL](https://github.com/Dachi-Papashvili88/survey-form)
+- [Live Site URL](https://dachi-papashvili88.github.io/survey-form/)
 
 ## My process
 
@@ -35,6 +40,6 @@ This is a solution to the [Survey Form Sertification Project](https://www.freeco
 ## Author
 
 - Website - [Dachi Papashvili](https://github.com/Dachi-Papashvili88)
-- Frontend Mentor - [@freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form)
+- Frontend Mentor - [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form)
 
 
