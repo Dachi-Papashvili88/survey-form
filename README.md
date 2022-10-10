@@ -22,7 +22,7 @@ This is a solution to the [Survey Form Sertification Project](https://www.freeco
 
 ### Screenshot
 
-![](./Screenshot.png)
+![](./Screenshot.png) 
 
 ### Links
 
